@@ -1,3 +1,7 @@
+>######*Update1: now you can send any quantity and any kind of objects to the constructor in real time, you can actually make an object of the ClassC become a part of the constructor of another object of the ClassC*
+>######*Update1: ahora se puede enviar cualquier cantidad y cualquier tipo de objeto al constructor en tiempo real, incluso puedes hacer que un objeto de clase ClassC forme parte del constructor de otro objeto de ClassC*
+
+
 When I was experimenting with varargs in methods I realized that there must be some way to make objects have different quantity of args
 in the constructor in real time.
 
